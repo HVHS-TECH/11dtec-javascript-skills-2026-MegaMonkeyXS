@@ -11,7 +11,8 @@ console.log("LAlalalalalalalal")
  MAIN CODEE 
  ******************************************/
 
-
+var Mrbeastalivecounter = 1;
+console.log(Mrbeastalivecounter);
 
 
 /*******************************************
