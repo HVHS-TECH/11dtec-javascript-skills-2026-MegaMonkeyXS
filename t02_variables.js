@@ -1,1 +1,3 @@
-/* Paste your code from task 1 here */
+
+var Mrbeastalivecounter = 1;
+console.log("Mr beast is " + Mrbeastalivecounter);

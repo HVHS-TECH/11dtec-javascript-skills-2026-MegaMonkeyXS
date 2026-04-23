@@ -12,7 +12,7 @@ console.log("LAlalalalalalalal")
  ******************************************/
 
 var Mrbeastalivecounter = 1;
-console.log(Mrbeastalivecounter);
+console.log("Mr beast is " + Mrbeastalivecounter);
 
 
 /*******************************************
