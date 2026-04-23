@@ -1,9 +1,19 @@
 /****************************
-This is a block comment.
+THIS IS NOT A BLOCK COMMENT
 AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 ****************************/
-console.log("Running t01_introduction.js")
+console.log("not running at all")
 console.log("LAlalalalalalalal")
 
-// This is a single line comment
+// Variable
 
+/*******************************************
+ MAIN CODEE 
+ ******************************************/
+
+
+
+
+/*******************************************
+ FUNCTIONS
+ ******************************************/ 
