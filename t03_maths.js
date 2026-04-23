@@ -13,7 +13,16 @@ console.log("LAlalalalalalalal")
 
 var Mrbeastalivecounter = 1;
 var Mrbeastdeathcounter = 1;
+var answer;
+
+answer = Mrbeastalivecounter + Mrbeastdeathcounter
 console.log("Mr beast is", Mrbeastalivecounter + Mrbeastdeathcounter);
+answer = Mrbeastalivecounter + Mrbeastdeathcounter
+console.log("Mr beast is", Mrbeastalivecounter - Mrbeastdeathcounter);
+answer = Mrbeastalivecounter + Mrbeastdeathcounter
+console.log("Mr beast is", Mrbeastalivecounter * Mrbeastdeathcounter);
+answer = Mrbeastalivecounter + Mrbeastdeathcounter
+console.log("Mr beast is", Mrbeastalivecounter / Mrbeastdeathcounter);
 
 
 /*******************************************
