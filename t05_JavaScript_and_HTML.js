@@ -12,7 +12,7 @@ console.log("LAlalalalalalalal")
  ******************************************/
 
 var Mrbeastalivecounter = 3;
-var Mrbeastdeathcounter = 7;
+var Mrbeastdeathcounter = 112211231237;
 var answer;
 
 answer = Mrbeastalivecounter + Mrbeastdeathcounter
