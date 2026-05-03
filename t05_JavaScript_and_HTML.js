@@ -11,20 +11,12 @@ console.log("LAlalalalalalalal")
  MAIN CODEE 
  ******************************************/
 
-var Mrbeastalivecounter = 3;
-var Mrbeastdeathcounter = 112211231237;
-var answer;
-
-answer = Mrbeastalivecounter + Mrbeastdeathcounter
-console.log("Mr beast is", Mrbeastalivecounter + Mrbeastdeathcounter);
-answer = Mrbeastalivecounter + Mrbeastdeathcounter
-console.log("Mr beast is", Mrbeastalivecounter - Mrbeastdeathcounter);
-answer = Mrbeastalivecounter + Mrbeastdeathcounter
-console.log("Mr beast is", Mrbeastalivecounter * Mrbeastdeathcounter);
-answer = Mrbeastalivecounter + Mrbeastdeathcounter
-console.log("Mr beast is", Mrbeastalivecounter / Mrbeastdeathcounter);
-
-
+const OUTPUT = document.getElementById("JavaScriptOutput")
+OUTPUT.innerHTML = "<h2>Added by JavaScript</h2>"
+OUTPUT.innerHTML += "<p>Also added by JavaScript</p>"
+OUTPUT.innerHTML += "<p>Did I mention this was added by JavaScript</p>"
+OUTPUT.innerHTML += "<p>Yeah this is definitely Javascript</p>"
+OUTPUT.innerHTML += "<img src='Lemon_John.jpg' alt='John Lemon'>"
 /*******************************************
  FUNCTIONS
  ******************************************/ 
