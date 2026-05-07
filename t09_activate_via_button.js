@@ -9,6 +9,10 @@ console.log("LAlalalalalalalal");
  MAIN CODE
  ******************************************/
 
+ var Userage = 65329230567;
+ var Currentyear = 2026
+
+
 const OUTPUT = document.getElementById("JavaScriptOutput");
 
 OUTPUT.innerHTML = "<h2>Added by JavaScript</h2>";
@@ -27,4 +31,10 @@ function writeLine() {
   OUTPUT.innerHTML += "<p>Meet The Beatles</p>";
 }
 
-function 
+function start() {
+JavaScriptOutput.innerHTML
+JavaScriptOutput.innerHTML
+answer = Currentyear - Userage;
+JavaScriptOutput.innerHTML
+
+}
