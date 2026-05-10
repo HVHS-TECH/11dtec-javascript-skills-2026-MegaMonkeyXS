@@ -14,6 +14,7 @@ var Currentyear = 1943;
 const OUTPUT = document.getElementById("JavaScriptOutput");
 const NAME_FIELD = document.getElementById("Namefield");
 let userName = NAME_FIELD.value;
+OUTPUT.innerHTML = "<p>Welcome to the website "+userName+"</p>";
 
 OUTPUT.innerHTML = "<h2>Added by JavaScript</h2>";
 OUTPUT.innerHTML += "<p>Also added by JavaScript</p>";
