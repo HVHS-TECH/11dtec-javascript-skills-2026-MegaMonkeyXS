@@ -21,6 +21,8 @@ OUTPUT.innerHTML += "<img src='Lemon_John.jpg' alt='John Lemon'>";
 
 writeLine();
 
+
+
 /*******************************************
  FUNCTIONS
  *******************************************/
