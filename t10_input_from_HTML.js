@@ -42,5 +42,5 @@ function start() {
 
 function getFormInput() {
 
-OUTPUT.innerHTML = "<p>Welcome to the website "+userName+"</p>";    
+OUTPUT.innerHTML += "<p>Welcome to the website "+userName+"</p>";    
 }
