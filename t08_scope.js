@@ -1,4 +1,4 @@
-const OUTPUT = document.getElementById("output");
+const OUTPUT = document.getElementById("OUTPUT");
 
 var myVar = 0;
 OUTPUT.innerHTML = "Start: "+myVar+"<br>";
