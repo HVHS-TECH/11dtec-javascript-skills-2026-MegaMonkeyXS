@@ -32,5 +32,5 @@ function writeLine() {
 function start() {
   var answer = Currentyear - Userage;
 
-  OUTPUT.innerHTML += "<p>You are " + answer +"</p>";
+  OUTPUT.innerHTML += "<p>You are " + answer + " years old</p>";
 }
