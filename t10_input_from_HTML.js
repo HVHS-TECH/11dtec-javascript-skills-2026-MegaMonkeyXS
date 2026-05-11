@@ -40,6 +40,8 @@ function start() {
 }
 
 function getFormInput() {
-
 OUTPUT.innerHTML += "<p>Welcome to the website " + userName + "</p>";    
+const NAME_FIELD = document.getElementById("Namefield");
+let userName = NAME_FIELD.value;
+
 }
