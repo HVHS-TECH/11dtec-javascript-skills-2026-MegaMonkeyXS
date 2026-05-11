@@ -38,13 +38,7 @@ function start() {
   OUTPUT.innerHTML += "<p>You are " + answer + " years old</p>";
 }
 
-function getFormInput() {
-const NAME_FIELD = document.getElementById("Namefield");
-userName= NAME_FIELD.value;
-OUTPUT.innerHTML += "<p>Welcome to the website " + userName + "</p>";    
-OUTPUT.innerHTML += "<p>You are " + userAge + " years old</p>";   
-OUTPUT.innerHTML += "<p>You have " + userDollar + " Kromer</p>";  
-}
+
 
 function getFormInput() {
 const NAME_FIELD = document.getElementById("Namefield");
