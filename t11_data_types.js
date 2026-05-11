@@ -13,6 +13,8 @@ var Currentyear = 1943;
 
 const OUTPUT = document.getElementById("JavaScriptOutput");
 let userName = "hello";
+let userAge = "hello";
+let userName = "hello";
 
 OUTPUT.innerHTML = "<h2>Added by JavaScript</h2>";
 OUTPUT.innerHTML += "<p>Also added by JavaScript</p>";
@@ -47,6 +49,7 @@ OUTPUT.innerHTML += "<p>Welcome to the website " + userName + "</p>";
 function getFormInput() {
 const NAME_FIELD = document.getElementById("Namefield");
 userName= NAME_FIELD.value;
-OUTPUT.innerHTML += "<p>Welcome to the website " + userName + "</p>";    
+OUTPUT.innerHTML += "<p>Welcome to the website " + userName + "</p>";   
+OUTPUT.innerHTML += "<p>Welcome to the website " + userName + "</p>";   
 
 }
