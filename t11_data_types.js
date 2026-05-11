@@ -8,7 +8,6 @@ console.log("LAlalalalalalalal");
  MAIN CODE
  *******************************************/
 
-var Userage = 463674329137270;
 var Currentyear = 1943;
 
 const OUTPUT = document.getElementById("JavaScriptOutput");
