@@ -41,8 +41,9 @@ function start() {
 function getFormInput() {
 const NAME_FIELD = document.getElementById("Namefield");
 userName= NAME_FIELD.value;
-OUTPUT.innerHTML += "<p>Welcome to the website " + userName + "</p>";    
-
+OUTPUT.innerHTML += "<p>Welcome to the website " + userName + "67</p>";    
+OUTPUT.innerHTML += "<p>You are " + userAge + " years old</p>";   
+OUTPUT.innerHTML += "<p>You have " + userDollar + " Kromer</p>";  
 }
 
 function getFormInput() {
@@ -52,8 +53,7 @@ const DOLLAR_FIELD = document.getElementById("Dollarfield");
 userName= NAME_FIELD.value;
 userAge= AGE_FIELD.value;
 userDollar= DOLLAR_FIELD.value;
-OUTPUT.innerHTML += "<p>Welcome to the website " + userName + "</p>";   
-OUTPUT.innerHTML += "<p>You are " + userAge + " years old</p>";   
-OUTPUT.innerHTML += "<p>You have " + userDollar + " Kromer</p>";  
+OUTPUT.innerHTML += "<p>Welcome to the website " + userName + "68</p>";   
+
 
 }
