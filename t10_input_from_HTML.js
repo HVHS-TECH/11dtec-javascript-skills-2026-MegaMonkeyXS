@@ -12,9 +12,8 @@ var Userage = 463674329137270;
 var Currentyear = 1943;
 
 const OUTPUT = document.getElementById("JavaScriptOutput");
-const NAME_FIELD = document.getElementById("Namefield");
-let userName = NAME_FIELD.value;
-
+const NAME_FIELD = "placeholder value";
+let userName = hello;
 
 OUTPUT.innerHTML = "<h2>Added by JavaScript</h2>";
 OUTPUT.innerHTML += "<p>Also added by JavaScript</p>";
@@ -40,6 +39,8 @@ function start() {
 }
 
 function getFormInput() {
+NAME_FIELD = document.getElementById("Namefield");
+userName= NAME_FIELD;
 OUTPUT.innerHTML += "<p>Welcome to the website " + userName + "</p>";    
 const NAME_FIELD = document.getElementById("Namefield");
 let userName = NAME_FIELD.value;
