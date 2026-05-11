@@ -48,6 +48,7 @@ userName= NAME_FIELD.value;
 userAge= AGE_FIELD.value;
 userDollar= DOLLAR_FIELD.value;
 OUTPUT.innerHTML += "<p>Welcome to the website " + userName + "</p>";   
-
+OUTPUT.innerHTML += "<p>You are " + userAge + " years old</p>"; 
+OUTPUT.innerHTML += "<p>You have " + userDollar + " yen</p>"; 
 
 }
