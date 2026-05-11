@@ -42,4 +42,11 @@ const NAME_FIELD = document.getElementById("Namefield");
 userName= NAME_FIELD.value;
 OUTPUT.innerHTML += "<p>Welcome to the website " + userName + "</p>";    
 
-}a
+}
+
+function getFormInput() {
+const NAME_FIELD = document.getElementById("Namefield");
+userName= NAME_FIELD.value;
+OUTPUT.innerHTML += "<p>Welcome to the website " + userName + "</p>";    
+
+}
