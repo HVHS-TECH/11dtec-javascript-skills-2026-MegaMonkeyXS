@@ -36,8 +36,6 @@ function writeLine() {
 
 function start() {
   var answer = Currentyear - Userage;
-  const NAME_FIELD = document.getElementById("Namefield");
-let userName = NAME_FIELD.value;
   OUTPUT.innerHTML += "<p>You are " + answer + " years old</p>";
 }
 
