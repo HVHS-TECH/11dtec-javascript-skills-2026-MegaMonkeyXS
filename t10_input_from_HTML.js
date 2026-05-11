@@ -43,5 +43,5 @@ let userName = NAME_FIELD.value;
 
 function getFormInput() {
 
-OUTPUT.innerHTML += "<p>Welcome to the website "+userName+"</p>";    
+OUTPUT.innerHTML += "<p>Welcome to the website " + userName + "</p>";    
 }
